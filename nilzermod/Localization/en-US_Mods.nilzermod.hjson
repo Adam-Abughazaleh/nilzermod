@@ -1,0 +1,17 @@
+Items: {
+	magicspear: {
+		DisplayName: Magic Spear
+		Tooltip: This seems awfully basic for a MAGIC spear.
+	}
+
+	nursepills: {
+		DisplayName: Suspicious Looking Pills
+		Tooltip:
+			'''
+			Gain 20% bonus attack speed on all weapons
+			I don't wanna know how you got these...
+			'''
+	}
+}
+
+Projectiles.magicspearprojectile.DisplayName: magicspearprojectile

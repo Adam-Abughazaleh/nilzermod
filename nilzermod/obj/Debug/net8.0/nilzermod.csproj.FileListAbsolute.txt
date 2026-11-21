@@ -1,0 +1,13 @@
+C:\Users\nilsh\OneDrive\Attachments\Documents\My Games\Terraria\tModLoader\ModSources\nilzermod\obj\Debug\net8.0\nilzermod.csproj.AssemblyReference.cache
+C:\Users\nilsh\OneDrive\Attachments\Documents\My Games\Terraria\tModLoader\ModSources\nilzermod\obj\Debug\net8.0\nilzermod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilsh\OneDrive\Attachments\Documents\My Games\Terraria\tModLoader\ModSources\nilzermod\obj\Debug\net8.0\nilzermod.AssemblyInfoInputs.cache
+C:\Users\nilsh\OneDrive\Attachments\Documents\My Games\Terraria\tModLoader\ModSources\nilzermod\obj\Debug\net8.0\nilzermod.AssemblyInfo.cs
+C:\Users\nilsh\OneDrive\Attachments\Documents\My Games\Terraria\tModLoader\ModSources\nilzermod\obj\Debug\net8.0\nilzermod.csproj.CoreCompileInputs.cache
+C:\Users\nilsh\OneDrive\Attachments\Documents\My Games\Terraria\tModLoader\ModSources\nilzermod\bin\Debug\net8.0\nilzermod.deps.json
+C:\Users\nilsh\OneDrive\Attachments\Documents\My Games\Terraria\tModLoader\ModSources\nilzermod\bin\Debug\net8.0\nilzermod.dll
+C:\Users\nilsh\OneDrive\Attachments\Documents\My Games\Terraria\tModLoader\ModSources\nilzermod\bin\Debug\net8.0\nilzermod.pdb
+C:\Users\nilsh\OneDrive\Attachments\Documents\My Games\Terraria\tModLoader\ModSources\nilzermod\obj\Debug\net8.0\nilzermod.dll
+C:\Users\nilsh\OneDrive\Attachments\Documents\My Games\Terraria\tModLoader\ModSources\nilzermod\obj\Debug\net8.0\refint\nilzermod.dll
+C:\Users\nilsh\OneDrive\Attachments\Documents\My Games\Terraria\tModLoader\ModSources\nilzermod\obj\Debug\net8.0\nilzermod.pdb
+C:\Users\nilsh\OneDrive\Attachments\Documents\My Games\Terraria\tModLoader\ModSources\nilzermod\obj\Debug\net8.0\ref\nilzermod.dll
+C:\Users\nilsh\OneDrive\Attachments\Documents\My Games\Terraria\tModLoader\ModSources\nilzermod\obj\Debug\net8.0\nilzermod.csproj.Up2Date

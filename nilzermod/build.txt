@@ -1,0 +1,3 @@
+displayName = Nilzer Mod
+author = nilzer
+version = 0.0.2
