@@ -9,7 +9,26 @@ Items: {
 		Tooltip:
 			'''
 			Gain 20% bonus attack speed on all weapons
-			I don't wanna know how you got these...
+			'I don't wanna know how you got these...'
+			'''
+	}
+
+	atrocity: {
+		DisplayName: The Overkiller
+		Tooltip:
+			'''
+			66% chance to save ammo
+			Ignores 25 points of enemy defense
+			'It's raucous, it's unruly, and to be frank with you, I'm scared of this thing!'
+			'''
+	}
+
+	zenithExpertAccessory: {
+		DisplayName: Mighty and Magnificent Ultra-Shield of Righteousness and Glory
+		Tooltip:
+			'''
+			It has it all! 
+			'Gravity Globe not included'
 			'''
 	}
 }
